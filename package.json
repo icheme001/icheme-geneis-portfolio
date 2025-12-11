@@ -20,6 +20,7 @@
     "@tailwindcss/postcss": "^4.1.17",
     "@types/bcryptjs": "^2.4.2",
     "@types/node": "20.11.30",
+    "@types/nodemailer": "^7.0.4",
     "@types/react": "18.2.45",
     "@types/react-dom": "18.2.18",
     "autoprefixer": "^10.4.22",

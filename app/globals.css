@@ -1,4 +1,8 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom styles below */
 
 /* ============================================
    NEXT-GEN PORTFOLIO CSS - ADVANCED 3D & ANIMATIONS
